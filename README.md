@@ -4,7 +4,7 @@ This project was completed as part of the Udemy course, [JavaScript Web Project:
 
 ## What it does?
 
-This is basic demo website. The main focus for this web page is to be able to change the screen into dark mode.
+This is a basic demo website. The main focus for this web page is to be able to change the screen into dark mode.
 
 ## Key features
 
